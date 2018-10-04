@@ -1,0 +1,13 @@
+01:13:06:271	3234	
+01:13:06:272	3234	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+01:13:06:273	3234	บ              Claymore CryptoNote CPU Miner v4.0                บ
+01:13:06:274	3234	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+01:13:06:477	3234	XMR: 1 pool is specified
+01:13:06:478	3234	Main pool is vegas-backup.xmrpool.net:80
+01:13:06:479	3234	64-bit version
+01:13:06:479	3234	CPU supports AES-NI - faster mining!
+01:13:06:480	3234	Logical CPU cores: 8
+01:13:06:481	3234	Number of threads: Autoselection...
+01:13:06:482	3234	Using 4 threads
+01:13:06:492	3234	scfg: 0
+01:13:16:549	2b9c	ADL: Cannot find any AMD adapters

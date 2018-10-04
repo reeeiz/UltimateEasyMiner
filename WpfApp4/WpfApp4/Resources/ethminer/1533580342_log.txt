@@ -1,0 +1,82 @@
+21:32:22:999	31f0	Check and remove old log files...
+21:32:23:000	31f0	args: -epool eu1.ethermine.org:4444 -ewal 0xD69af2A796A737A103F12d2f0BCC563a13900E6F -epsw x 
+21:32:23:001	31f0	
+21:32:23:001	31f0	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+21:32:23:002	31f0	บ                Claymore's Dual GPU Miner - v11.9               บ
+21:32:23:002	31f0	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+21:32:23:003	31f0	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+21:32:23:003	31f0	
+21:32:23:004	31f0	b597 
+21:32:23:205	31f0	You specified default wallet address, it is good for tests only, for normal mining you must change it to your wallet address!
+21:32:23:206	31f0	ETH: 1 pool is specified
+21:32:23:206	31f0	Main Ethereum pool is eu1.ethermine.org:4444
+21:32:23:207	31f0	DCR: 0 pool is specified
+21:32:23:264	31f0	OpenCL platform: Intel(R) OpenCL
+21:32:23:264	31f0	OpenCL platform: NVIDIA CUDA
+21:32:23:265	31f0	AMD OpenCL platform not found 
+21:32:23:488	31f0	CUDA initializing...
+
+21:32:23:488	31f0	NVIDIA Cards available: 1 
+21:32:23:489	31f0	CUDA Driver Version/Runtime Version: 9.1/8.0
+21:32:23:491	31f0	GPU #0: GeForce GTX 1050 Ti, 4096 MB available, 6 compute units, capability: 6.1  (pci bus 1:0:0)
+21:32:23:491	31f0	Total cards: 1 
+21:32:27:498	31f0	NVML version: 9.390.77
+21:32:27:505	31f0	NVML: cannot get fan speed, error 3
+21:32:28:151	31f0	SSL: Imported 270 certificates from local storage
+21:32:28:197	bec	ETH: Stratum - connecting to 'eu1.ethermine.org' <149.202.89.224> port 4444 (unsecure)
+21:32:28:252	31f0	No pool specified for Decred! Ethereum-only mining mode is enabled
+21:32:28:252	31f0	ETHEREUM-ONLY MINING MODE ENABLED (-mode 1)
+21:32:28:253	31f0	ETH: eth-proxy stratum mode
+21:32:28:253	31f0	Watchdog enabled
+21:32:28:253	31f0	Remote management (READ-ONLY MODE) is enabled on port 3333
+21:32:28:254	31f0	
+21:32:28:298	bec	sent: {"worker": "eth1.0", "jsonrpc": "2.0", "params": ["0xD69af2A796A737A103F12d2f0BCC563a13900E6F", "x"], "id": 2, "method": "eth_submitLogin"}
+
+21:32:28:299	bec	ETH: Stratum - Connected (eu1.ethermine.org:4444) (unsecure)
+21:32:28:394	bec	buf: {"id":2,"jsonrpc":"2.0","result":true}
+
+21:32:28:394	bec	ETH: Authorized
+21:32:28:396	bec	sent: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+21:32:28:492	bec	buf: {"id":3,"jsonrpc":"2.0","result":["0x3157cd6c1c7dea0ab08ded2dd0c810c44ef39bd288e1f8e84488d7f925fa941a","0x6475dd15a6baef221154af2b85dff79a86a0cf20fb27dab062b60c93191bd403","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x5d14a3"]}
+
+21:32:28:531	3198	Setting DAG epoch #203...
+21:32:29:213	b80	NVML: cannot get fan speed, error 3
+21:32:30:924	3198	Setting DAG epoch #203 for GPU0
+21:32:30:926	3198	Create GPU buffer for GPU0
+21:32:32:215	b80	NVML: cannot get fan speed, error 3
+21:32:35:216	b80	NVML: cannot get fan speed, error 3
+21:32:37:486	bec	buf: {"id":0,"jsonrpc":"2.0","result":["0x5b8f3003da5a9a9e3c7c3928e98c5346366bbd55ef1c1f070a2ffc6cfb14a557","0x6475dd15a6baef221154af2b85dff79a86a0cf20fb27dab062b60c93191bd403","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x5d14a4"]}
+
+21:32:37:487	bec	ETH: 08/06/18-21:32:37 - New job from eu1.ethermine.org:4444
+21:32:37:487	bec	target: 0x0000000112e0be82 (diff: 4000MH), epoch 203(2.59GB)
+21:32:37:489	bec	ETH - Total Speed: 0.000 Mh/s, Total Shares: 0, Rejected: 0, Time: 00:00
+21:32:37:490	bec	ETH: GPU0 0.000 Mh/s
+21:32:38:218	b80	NVML: cannot get fan speed, error 3
+21:32:38:498	bec	ETH: checking pool connection...
+21:32:38:498	bec	sent: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+21:32:38:586	bec	buf: {"id":3,"jsonrpc":"2.0","result":["0x5b8f3003da5a9a9e3c7c3928e98c5346366bbd55ef1c1f070a2ffc6cfb14a557","0x6475dd15a6baef221154af2b85dff79a86a0cf20fb27dab062b60c93191bd403","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x5d14a4"]}
+
+21:32:39:758	bec	buf: {"id":0,"jsonrpc":"2.0","result":["0x56ab6b44ad2ec38fd5ceb9413b1e76bd6e5090263e30770d4b6cfb20a81cf07d","0x6475dd15a6baef221154af2b85dff79a86a0cf20fb27dab062b60c93191bd403","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x5d14a4"]}
+
+21:32:39:758	bec	ETH: 08/06/18-21:32:39 - New job from eu1.ethermine.org:4444
+21:32:39:759	bec	target: 0x0000000112e0be82 (diff: 4000MH), epoch 203(2.59GB)
+21:32:39:760	bec	ETH - Total Speed: 0.000 Mh/s, Total Shares: 0, Rejected: 0, Time: 00:00
+21:32:39:761	bec	ETH: GPU0 0.000 Mh/s
+21:32:41:218	b80	NVML: cannot get fan speed, error 3
+21:32:44:219	b80	NVML: cannot get fan speed, error 3
+21:32:46:540	3198	GPU0 DAG creation time - 15520 ms
+21:32:46:542	3198	Setting DAG epoch #203 for GPU0 done
+21:32:47:221	b80	NVML: cannot get fan speed, error 3
+21:32:48:498	bec	sent: {"id":6,"jsonrpc":"2.0","method":"eth_submitHashrate","params":["0xc8669a", "0x00000000000000000000000000000000000000000000000000000000fa6b3f82"]}
+
+21:32:48:512	bec	ETH: checking pool connection...
+21:32:48:512	bec	sent: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+21:32:48:587	bec	buf: {"id":6,"jsonrpc":"2.0","result":true}
+
+21:32:48:677	bec	buf: {"id":3,"jsonrpc":"2.0","result":["0x56ab6b44ad2ec38fd5ceb9413b1e76bd6e5090263e30770d4b6cfb20a81cf07d","0x6475dd15a6baef221154af2b85dff79a86a0cf20fb27dab062b60c93191bd403","0x0112e0be826d694b2e62d01511f12a6061fbaec8bc02357593e70e52ba","0x5d14a4"]}
+
+21:32:48:901	110	NVML: cannot get fan speed, error 3
+21:32:49:002	110	Quit, please wait...

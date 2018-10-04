@@ -1,0 +1,17 @@
+﻿<Controls:MetroWindow x:Class="WpfApp4.MainWindow"
+                      
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      
+                      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Ultimte Easy Miner" Height="565" Width="400"  Name="mainWindow" ResizeMode="NoResize">
+    
+    <StackPanel Background="Lavender" Name="MainStackpanel" Margin="0,0,0,-1" >
+
+        <Image Source="./Resources/main_logo1.png" Margin="10" Name="MainLogo"/>
+        <Button Content="Зайти в раздел добычи" Margin="40,10" Height="30" Click="mining_space" Name="Button1"/>
+        <Button Content="Настройки программы" Margin="40,10" Height="30" Click="program_option" Name="Button2"/>
+        <Button Content="Узнать актуальные курсы криптовалют" Margin="40,10" Height="30" Click="exchange_rates" Name="Button3" />
+        <Button Content="Калькулятор прибыльности майнинга" Margin="40,10" Height="30" Click="mining_calc" Name="Button4" />
+    </StackPanel>
+</Controls:MetroWindow>

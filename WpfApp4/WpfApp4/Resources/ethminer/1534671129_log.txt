@@ -1,0 +1,22 @@
+12:32:09:812	1b04	Check and remove old log files...
+12:32:09:813	1b04	args: -epool eu1.ethermine.org:4444 -ewal 0xD69af2A796A737A103F12d2f0BCC563a13900E6F -epsw x 
+12:32:09:814	1b04	
+12:32:09:814	1b04	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+12:32:09:815	1b04	บ                Claymore's Dual GPU Miner - v11.9               บ
+12:32:09:815	1b04	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+12:32:09:816	1b04	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+12:32:09:816	1b04	
+12:32:09:816	1b04	b597 
+12:32:10:022	1b04	You specified default wallet address, it is good for tests only, for normal mining you must change it to your wallet address!
+12:32:10:023	1b04	ETH: 1 pool is specified
+12:32:10:023	1b04	Main Ethereum pool is eu1.ethermine.org:4444
+12:32:10:024	1b04	DCR: 0 pool is specified
+12:32:10:161	1b04	OpenCL platform: Intel(R) OpenCL
+12:32:10:162	1b04	OpenCL platform: NVIDIA CUDA
+12:32:10:162	1b04	AMD OpenCL platform not found 
+12:32:10:493	1b04	CUDA initializing...
+
+12:32:10:493	1b04	NVIDIA Cards available: 1 
+12:32:10:494	1b04	CUDA Driver Version/Runtime Version: 9.1/8.0
+12:32:10:496	1b04	GPU #0: GeForce GTX 1050 Ti, 4096 MB available, 6 compute units, capability: 6.1  (pci bus 1:0:0)
+12:32:10:497	1b04	Total cards: 1 

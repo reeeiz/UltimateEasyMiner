@@ -1,0 +1,39 @@
+00:25:32:907	32c8	Check and remove old log files...
+00:25:32:907	32c8	args: -epool http://eth-eu1.nanopool.org:8888 -ewal 0x829f644bb9402a6c959a9ca0c673005dbf668704 -epsw x 
+00:25:32:908	32c8	
+00:25:32:908	32c8	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+00:25:32:909	32c8	บ                Claymore's Dual GPU Miner - v11.9               บ
+00:25:32:909	32c8	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+00:25:32:909	32c8	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+00:25:32:909	32c8	
+00:25:32:909	32c8	b597 
+00:25:33:118	32c8	ETH: 1 pool is specified
+00:25:33:119	32c8	Main Ethereum pool is eth-eu1.nanopool.org:8888
+00:25:33:119	32c8	DCR: 0 pool is specified
+00:25:33:241	32c8	OpenCL platform: Intel(R) OpenCL
+00:25:33:241	32c8	OpenCL platform: NVIDIA CUDA
+00:25:33:241	32c8	AMD OpenCL platform not found 
+00:25:33:447	32c8	CUDA initializing...
+
+00:25:33:447	32c8	NVIDIA Cards available: 1 
+00:25:33:455	32c8	CUDA Driver Version/Runtime Version: 9.1/8.0
+00:25:33:457	32c8	GPU #0: GeForce GTX 1050 Ti, 4096 MB available, 6 compute units, capability: 6.1  (pci bus 1:0:0)
+00:25:33:458	32c8	Total cards: 1 
+00:25:37:464	32c8	NVML version: 9.390.77
+00:25:37:473	32c8	NVML: cannot get fan speed, error 3
+00:25:38:072	32c8	SSL: Imported 270 certificates from local storage
+00:25:38:073	33ec	ETH - connecting to eth-eu1.nanopool.org:8888
+00:25:38:074	33ec	http send request: {"jsonrpc":"2.0", "method": "eth_getWork", "params": [], "id":0}
+00:25:38:174	32c8	No pool specified for Decred! Ethereum-only mining mode is enabled
+00:25:38:174	32c8	ETHEREUM-ONLY MINING MODE ENABLED (-mode 1)
+00:25:38:175	32c8	ETH: HTTP SOLO mode
+00:25:38:175	32c8	Ethereum HTTP requests time (-etht) is set to 200 ms
+00:25:38:175	32c8	Watchdog enabled
+00:25:38:176	32c8	Remote management (READ-ONLY MODE) is enabled on port 3333
+00:25:38:176	32c8	
+00:25:38:223	33ec	ETH: http error #22.
+00:25:38:223	33ec	ETH: Check username and password, and/or pool state.
+00:25:38:223	33ec	ETH: Failed to connect to pool (eth-eu1.nanopool.org:8888), retry in 20 sec...
+00:25:39:122	335c	NVML: cannot get fan speed, error 3
+00:25:42:123	335c	NVML: cannot get fan speed, error 3
+00:25:43:363	2c10	NVML: cannot get fan speed, error 3

@@ -1,0 +1,35 @@
+21:11:16:849	1008	Check and remove old log files...
+21:11:16:850	1008	args: -epool eu1.ethermine.org:4444 -ewal 0xD69af2A796A737A103F12d2f0BCC563a13900E6F -epsw x 
+21:11:16:850	1008	
+21:11:16:851	1008	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+21:11:16:851	1008	บ                Claymore's Dual GPU Miner - v11.9               บ
+21:11:16:851	1008	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+21:11:16:852	1008	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+21:11:16:852	1008	
+21:11:16:852	1008	b597 
+21:11:17:054	1008	You specified default wallet address, it is good for tests only, for normal mining you must change it to your wallet address!
+21:11:17:062	1008	ETH: 1 pool is specified
+21:11:17:062	1008	Main Ethereum pool is eu1.ethermine.org:4444
+21:11:17:063	1008	DCR: 0 pool is specified
+21:11:17:113	1008	OpenCL platform: Intel(R) OpenCL
+21:11:17:114	1008	OpenCL platform: NVIDIA CUDA
+21:11:17:114	1008	AMD OpenCL platform not found 
+21:11:17:340	1008	CUDA initializing...
+
+21:11:17:341	1008	NVIDIA Cards available: 1 
+21:11:17:341	1008	CUDA Driver Version/Runtime Version: 9.1/8.0
+21:11:17:343	1008	GPU #0: GeForce GTX 1050 Ti, 4096 MB available, 6 compute units, capability: 6.1  (pci bus 1:0:0)
+21:11:17:343	1008	Total cards: 1 
+21:11:21:351	1008	NVML version: 9.390.77
+21:11:21:358	1008	NVML: cannot get fan speed, error 3
+21:11:21:998	1008	SSL: Imported 270 certificates from local storage
+21:11:22:046	9bc	ETH: Stratum - connecting to 'eu1.ethermine.org' <35.234.89.249> port 4444 (unsecure)
+21:11:22:100	1008	No pool specified for Decred! Ethereum-only mining mode is enabled
+21:11:22:100	1008	ETHEREUM-ONLY MINING MODE ENABLED (-mode 1)
+21:11:22:101	1008	ETH: eth-proxy stratum mode
+21:11:22:101	1008	Watchdog enabled
+21:11:22:102	1008	Remote management (READ-ONLY MODE) is enabled on port 3333
+21:11:22:102	1008	
+21:11:23:068	2280	NVML: cannot get fan speed, error 3
+21:11:23:922	3204	NVML: cannot get fan speed, error 3
+21:11:24:105	b0c	server: bind failed with error: 10038 (check -mport option value), next attempt in 20sec...

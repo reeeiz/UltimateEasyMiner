@@ -1,0 +1,8 @@
+
+BCN	ccminer -a cryptonight -o stratum+tcp://bcn.pool.minergate.com:45550 -u YOUR_EMAIL -p x	
+XMR?	ccminer -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45700 -u YOUR_EMAIL -p x	
+XMO?	ccminer -a cryptonight -o stratum+tcp://xmo.pool.minergate.com:45560 -u YOUR_EMAIL -p x	
+XDN	ccminer -a cryptonight -o stratum+tcp://xdn.pool.minergate.com:45620 -u YOUR_EMAIL -p x	
+FCN	ccminer -a cryptonight -o stratum+tcp://fcn.pool.minergate.com:45610 -u YOUR_EMAIL -p x	
+XDN+XMO?	ccminer -a cryptonight -o stratum+tcp://xdn-xmo.pool.minergate.com:45790 -u YOUR_EMAIL -p x	
+FCN+XMO?	ccminer -a cryptonight -o stratum+tcp://fcn-xmo.pool.minergate.com:45590 -u YOUR_EMAIL -p x	

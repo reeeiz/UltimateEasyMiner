@@ -1,0 +1,1 @@
+hodlminer.exe --benchmark

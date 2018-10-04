@@ -1,0 +1,24 @@
+14:11:17:444	1ed8	Check and remove old log files...
+14:11:17:445	1ed8	args: -epool eth-eu1.nanopool.org:9999 -ewal 0x829f644bb9402a6c959a9ca0c673005dbf668704 -epsw x 
+14:11:17:446	1ed8	
+14:11:17:446	1ed8	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+14:11:17:447	1ed8	บ                Claymore's Dual GPU Miner - v11.9               บ
+14:11:17:447	1ed8	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+14:11:17:447	1ed8	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+14:11:17:447	1ed8	
+14:11:17:447	1ed8	b597 
+14:11:17:655	1ed8	ETH: 1 pool is specified
+14:11:17:656	1ed8	Main Ethereum pool is eth-eu1.nanopool.org:9999
+14:11:17:656	1ed8	DCR: 0 pool is specified
+14:11:17:786	1ed8	OpenCL platform: Intel(R) OpenCL
+14:11:17:786	1ed8	OpenCL platform: NVIDIA CUDA
+14:11:17:787	1ed8	AMD OpenCL platform not found 
+14:11:18:104	1ed8	CUDA initializing...
+
+14:11:18:105	1ed8	NVIDIA Cards available: 1 
+14:11:18:106	1ed8	CUDA Driver Version/Runtime Version: 9.1/8.0
+14:11:18:107	1ed8	GPU #0: GeForce GTX 1050 Ti, 4096 MB available, 6 compute units, capability: 6.1  (pci bus 1:0:0)
+14:11:18:108	1ed8	Total cards: 1 
+14:11:22:131	1ed8	NVML version: 9.390.77
+14:11:22:140	1ed8	NVML: cannot get fan speed, error 3
+14:11:22:251	27a8	NVML: cannot get fan speed, error 3

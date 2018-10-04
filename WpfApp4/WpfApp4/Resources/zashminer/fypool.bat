@@ -1,0 +1,1 @@
+miner --server eu1-zcash.flypool.org --port 3333 --user t1Zizz7dPm4Gez2Z7fMTF1Jm2GxBigP5zkE.flz --pass x

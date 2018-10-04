@@ -1,0 +1,51 @@
+07:41:11:073	510	Check and remove old log files...
+07:41:11:074	510	args: -epool eth-eu1.nanopool.org:9999 -ewal 0x829f644bb9402a6c959a9ca0c673005dbf668704 -epsw x 
+07:41:11:074	510	
+07:41:11:074	510	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+07:41:11:075	510	บ                Claymore's Dual GPU Miner - v11.9               บ
+07:41:11:076	510	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+07:41:11:076	510	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+07:41:11:076	510	
+07:41:11:077	510	b597 
+07:41:11:284	510	ETH: 1 pool is specified
+07:41:11:285	510	Main Ethereum pool is eth-eu1.nanopool.org:9999
+07:41:11:285	510	DCR: 0 pool is specified
+07:41:11:411	510	OpenCL platform: Intel(R) OpenCL
+07:41:11:411	510	OpenCL platform: NVIDIA CUDA
+07:41:11:411	510	AMD OpenCL platform not found 
+07:41:11:683	510	CUDA initializing...
+
+07:41:11:683	510	NVIDIA Cards available: 1 
+07:41:11:684	510	CUDA Driver Version/Runtime Version: 9.1/8.0
+07:41:11:686	510	GPU #0: GeForce GTX 1050 Ti, 4096 MB available, 6 compute units, capability: 6.1  (pci bus 1:0:0)
+07:41:11:687	510	Total cards: 1 
+07:41:15:699	510	NVML version: 9.390.77
+07:41:15:707	510	NVML: cannot get fan speed, error 3
+07:41:16:340	510	SSL: Imported 270 certificates from local storage
+07:41:16:351	834	ETH: Stratum - connecting to 'eth-eu1.nanopool.org' <213.32.74.219> port 9999 (unsecure)
+07:41:16:418	834	sent: {"worker": "eth1.0", "jsonrpc": "2.0", "params": ["0x829f644bb9402a6c959a9ca0c673005dbf668704", "x"], "id": 2, "method": "eth_submitLogin"}
+
+07:41:16:418	834	ETH: Stratum - Connected (eth-eu1.nanopool.org:9999) (unsecure)
+07:41:16:441	510	No pool specified for Decred! Ethereum-only mining mode is enabled
+07:41:16:441	510	ETHEREUM-ONLY MINING MODE ENABLED (-mode 1)
+07:41:16:442	510	ETH: eth-proxy stratum mode
+07:41:16:442	510	Watchdog enabled
+07:41:16:442	510	Remote management (READ-ONLY MODE) is enabled on port 3333
+07:41:16:442	510	
+07:41:16:472	834	buf: {"jsonrpc":"2.0","id":2,"result":true}
+{"jsonrpc":"2.0","id":0,"result":["0x8649706f269b2ecc5b2e38c041ef715228f60dc7f97ca4b632e23429784cd2d0","0x185bb34ccb2fa3c9cf41cb20429e92c96102573d3c8ed27d820dba10b5e2b962","0x000000006df37f675ef6eadf5ab9a2072d44268d97df837e6748956e5c6c2116"]}
+
+07:41:16:472	834	ETH: Authorized
+07:41:16:472	834	sent: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+07:41:16:472	834	remove first packet 243
+07:41:16:517	834	buf: {"jsonrpc":"2.0","id":0,"result":["0x8649706f269b2ecc5b2e38c041ef715228f60dc7f97ca4b632e23429784cd2d0","0x185bb34ccb2fa3c9cf41cb20429e92c96102573d3c8ed27d820dba10b5e2b962","0x000000006df37f675ef6eadf5ab9a2072d44268d97df837e6748956e5c6c2116"]}
+
+07:41:16:537	11a0	Setting DAG epoch #214...
+07:41:17:290	650	NVML: cannot get fan speed, error 3
+07:41:18:985	11a0	Setting DAG epoch #214 for GPU0
+07:41:18:988	11a0	Create GPU buffer for GPU0
+07:41:20:291	650	NVML: cannot get fan speed, error 3
+07:41:23:292	650	NVML: cannot get fan speed, error 3
+07:41:25:763	718	NVML: cannot get fan speed, error 3
+07:41:25:865	718	Quit, please wait...

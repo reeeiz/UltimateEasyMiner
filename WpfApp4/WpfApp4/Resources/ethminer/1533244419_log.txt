@@ -1,0 +1,52 @@
+00:13:39:752	5b4	Check and remove old log files...
+00:13:39:753	5b4	args: -epool eu1.ethermine.org:4444 -ewal 0xD69af2A796A737A103F12d2f0BCC563a13900E6F -epsw x -dpool stratum+tcp://dcr.suprnova.cc:3252 -dwal Redhex.my -dpsw x 
+00:13:39:753	5b4	
+00:13:39:754	5b4	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+00:13:39:754	5b4	บ                Claymore's Dual GPU Miner - v11.9               บ
+00:13:39:755	5b4	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+00:13:39:756	5b4	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+00:13:39:756	5b4	
+00:13:39:764	5b4	b597 
+00:13:39:966	5b4	You specified default wallet address, it is good for tests only, for normal mining you must change it to your wallet address!
+00:13:39:967	5b4	ETH: 1 pool is specified
+00:13:39:968	5b4	Main Ethereum pool is eu1.ethermine.org:4444
+00:13:39:968	5b4	DCR: 1 pool is specified
+00:13:39:969	5b4	Main Decred pool is dcr.suprnova.cc:3252
+00:13:40:022	5b4	OpenCL platform: Intel(R) OpenCL
+00:13:40:022	5b4	OpenCL platform: NVIDIA CUDA
+00:13:40:023	5b4	AMD OpenCL platform not found 
+00:13:40:226	5b4	CUDA initializing...
+
+00:13:40:226	5b4	NVIDIA Cards available: 1 
+00:13:40:227	5b4	CUDA Driver Version/Runtime Version: 9.1/8.0
+00:13:40:229	5b4	GPU #0: GeForce GTX 1050 Ti, 4096 MB available, 6 compute units, capability: 6.1  (pci bus 1:0:0)
+00:13:40:229	5b4	Total cards: 1 
+00:13:44:238	5b4	NVML version: 9.390.77
+00:13:44:246	5b4	NVML: cannot get fan speed, error 3
+00:13:44:887	5b4	SSL: Imported 270 certificates from local storage
+00:13:44:934	2b64	ETH: Stratum - connecting to 'eu1.ethermine.org' <35.234.89.249> port 4444 (unsecure)
+00:13:44:988	5b4	DUAL MINING MODE ENABLED: ETHEREUM+DECRED
+00:13:44:989	5b4	ETH: eth-proxy stratum mode
+00:13:44:989	28a0	 DCR: Stratum - connecting to 'dcr.suprnova.cc' <149.202.215.198> port 3252 (unsecure)
+00:13:44:990	5b4	Watchdog enabled
+00:13:44:990	5b4	Remote management (READ-ONLY MODE) is enabled on port 3333
+00:13:44:991	5b4	
+00:13:45:078	28a0	sent: {"id": 1, "method": "mining.subscribe", "params": ["dual 1.0"]}
+
+00:13:45:078	28a0	sent: {"id": 5, "method": "mining.extranonce.subscribe", "params": []}
+
+00:13:45:079	28a0	sent: {"id": 2, "method": "mining.authorize", "params": ["Redhex.my","x"]}
+
+00:13:45:079	28a0	 DCR: Stratum - Connected (dcr.suprnova.cc:3252) (unsecure)
+00:13:45:176	28a0	buf: {"id":1,"result":[[["mining.notify","deadbeefcafebabe3d05210000000000"]],"acbf81a09452fa8858dbcb8a",12],"error":null}
+{"id":null,"method":"mining.set_difficulty","params":[128]}
+{"id":null,"method":"mining.notify","params":["24c5","eed35e34f6b3fd42aee27690a864ebf467b9135bfdd3a7340000000000000000","a7844dee8010a993ff674f8f255b9b8f7d950aa5771a940a7356cae90dace240c61952f3cd0d493a364febe2b667e65a390677f3ff8b3273f211b6941ccaf8c40100d779fdfe78a7050006006ca0000011240119ec6ff62802000000adff030053160000f373635b0000000000000000","05000000",[],"05000000","19012411","5b6373f3",true]}
+
+00:13:45:176	28a0	remove first packet 461
+00:13:45:176	28a0	remove first packet 401
+00:13:45:348	28a0	buf: {"id":2,"result":true,"error":null}
+
+00:13:45:348	28a0	 DCR: Authorized
+00:13:45:974	213c	NVML: cannot get fan speed, error 3
+00:13:48:975	213c	NVML: cannot get fan speed, error 3
+00:13:49:032	14f0	NVML: cannot get fan speed, error 3

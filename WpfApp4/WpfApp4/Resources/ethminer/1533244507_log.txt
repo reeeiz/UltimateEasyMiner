@@ -1,0 +1,47 @@
+00:15:07:788	3bc	Check and remove old log files...
+00:15:07:789	3bc	args: -epool eu1.ethermine.org:4444 -ewal 0xD69af2A796A737A103F12d2f0BCC563a13900E6F -epsw x -dpool stratum+tcp://dcr.suprnova.cc:3252 -dwal Redhex.my -dpsw x 
+00:15:07:789	3bc	
+00:15:07:790	3bc	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+00:15:07:790	3bc	บ                Claymore's Dual GPU Miner - v11.9               บ
+00:15:07:791	3bc	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+00:15:07:791	3bc	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+00:15:07:792	3bc	
+00:15:07:792	3bc	b597 
+00:15:07:994	3bc	You specified default wallet address, it is good for tests only, for normal mining you must change it to your wallet address!
+00:15:07:995	3bc	ETH: 1 pool is specified
+00:15:07:995	3bc	Main Ethereum pool is eu1.ethermine.org:4444
+00:15:07:995	3bc	DCR: 1 pool is specified
+00:15:07:996	3bc	Main Decred pool is dcr.suprnova.cc:3252
+00:15:08:048	3bc	OpenCL platform: Intel(R) OpenCL
+00:15:08:048	3bc	OpenCL platform: NVIDIA CUDA
+00:15:08:049	3bc	AMD OpenCL platform not found 
+00:15:08:257	3bc	CUDA initializing...
+
+00:15:08:258	3bc	NVIDIA Cards available: 1 
+00:15:08:258	3bc	CUDA Driver Version/Runtime Version: 9.1/8.0
+00:15:08:260	3bc	GPU #0: GeForce GTX 1050 Ti, 4096 MB available, 6 compute units, capability: 6.1  (pci bus 1:0:0)
+00:15:08:261	3bc	Total cards: 1 
+00:15:12:267	3bc	NVML version: 9.390.77
+00:15:12:274	3bc	NVML: cannot get fan speed, error 3
+00:15:12:914	3bc	SSL: Imported 270 certificates from local storage
+00:15:12:924	6a8	ETH: Stratum - connecting to 'eu1.ethermine.org' <35.234.89.249> port 4444 (unsecure)
+00:15:13:016	3bc	DUAL MINING MODE ENABLED: ETHEREUM+DECRED
+00:15:13:017	3bc	ETH: eth-proxy stratum mode
+00:15:13:017	2620	 DCR: Stratum - connecting to 'dcr.suprnova.cc' <149.202.215.198> port 3252 (unsecure)
+00:15:13:018	3bc	Watchdog enabled
+00:15:13:018	3bc	Remote management (READ-ONLY MODE) is enabled on port 3333
+00:15:13:018	3bc	
+00:15:13:104	2620	sent: {"id": 1, "method": "mining.subscribe", "params": ["dual 1.0"]}
+
+00:15:13:105	2620	sent: {"id": 5, "method": "mining.extranonce.subscribe", "params": []}
+
+00:15:13:105	2620	sent: {"id": 2, "method": "mining.authorize", "params": ["Redhex.my","x"]}
+
+00:15:13:105	2620	 DCR: Stratum - Connected (dcr.suprnova.cc:3252) (unsecure)
+00:15:13:202	2620	buf: {"id":1,"result":[[["mining.notify","deadbeefcafebabe0270840000000000"]],"a1ad4d17dc31055421e0d490",12],"error":null}
+{"id":null,"method":"mining.set_difficulty","params":[128]}
+{"id":null,"method":"mining.notify","params":["7327","eed35e34f6b3fd42aee27690a864ebf467b9135bfdd3a7340000000000000000","ed8ca3bac3fd77d8679ad13548be2c1bafc20fd6bfb492ec111670f0ce761676930013044d3f5a1197b09e49f38eaf2798dd3955f5e30f2f011cc19a0cf23b980100d779fdfe78a7050006006ca0000011240119ec6ff62802000000adff0300531600006174635b0000000000000000","05000000",[],"05000000","19012411","5b637461",false]}
+
+00:15:13:202	2620	remove first packet 462
+00:15:13:202	2620	remove first packet 402
+00:15:13:216	3250	NVML: cannot get fan speed, error 3

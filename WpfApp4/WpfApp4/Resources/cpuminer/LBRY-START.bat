@@ -1,0 +1,1 @@
+cpuminer.exe -a lbry -o stratum+tcp://lbc.coinmine.pl:8787 -u bKygzgabU2PmBLk4kyCi42S5eVWTZMr93p -p password

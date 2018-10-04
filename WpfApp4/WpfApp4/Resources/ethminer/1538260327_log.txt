@@ -1,0 +1,63 @@
+01:32:07:792	2ee8	Check and remove old log files...
+01:32:07:793	2ee8	args: -epool eth-eu1.nanopool.org:9999 -ewal 0x829f644bb9402a6c959a9ca0c673005dbf668704 -epsw x 
+01:32:07:793	2ee8	
+01:32:07:793	2ee8	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+01:32:07:793	2ee8	บ                Claymore's Dual GPU Miner - v11.9               บ
+01:32:07:794	2ee8	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+01:32:07:794	2ee8	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+01:32:07:794	2ee8	
+01:32:07:794	2ee8	b597 
+01:32:07:995	2ee8	ETH: 1 pool is specified
+01:32:08:002	2ee8	Main Ethereum pool is eth-eu1.nanopool.org:9999
+01:32:08:003	2ee8	DCR: 0 pool is specified
+01:32:08:048	2ee8	OpenCL platform: Intel(R) OpenCL
+01:32:08:048	2ee8	OpenCL platform: NVIDIA CUDA
+01:32:08:049	2ee8	AMD OpenCL platform not found 
+01:32:08:271	2ee8	CUDA initializing...
+
+01:32:08:271	2ee8	NVIDIA Cards available: 1 
+01:32:08:271	2ee8	CUDA Driver Version/Runtime Version: 9.1/8.0
+01:32:08:273	2ee8	GPU #0: GeForce GTX 1050 Ti, 4096 MB available, 6 compute units, capability: 6.1  (pci bus 1:0:0)
+01:32:08:273	2ee8	Total cards: 1 
+01:32:12:280	2ee8	NVML version: 9.390.77
+01:32:12:287	2ee8	NVML: cannot get fan speed, error 3
+01:32:12:915	2ee8	SSL: Imported 270 certificates from local storage
+01:32:12:927	3498	ETH: Stratum - connecting to 'eth-eu1.nanopool.org' <51.15.89.69> port 9999 (unsecure)
+01:32:12:998	3498	sent: {"worker": "eth1.0", "jsonrpc": "2.0", "params": ["0x829f644bb9402a6c959a9ca0c673005dbf668704", "x"], "id": 2, "method": "eth_submitLogin"}
+
+01:32:12:998	3498	ETH: Stratum - Connected (eth-eu1.nanopool.org:9999) (unsecure)
+01:32:13:017	2ee8	No pool specified for Decred! Ethereum-only mining mode is enabled
+01:32:13:017	2ee8	ETHEREUM-ONLY MINING MODE ENABLED (-mode 1)
+01:32:13:018	2ee8	ETH: eth-proxy stratum mode
+01:32:13:018	2ee8	Watchdog enabled
+01:32:13:018	2ee8	Remote management (READ-ONLY MODE) is enabled on port 3333
+01:32:13:018	2ee8	
+01:32:13:064	3498	buf: {"jsonrpc":"2.0","id":2,"result":true}
+{"jsonrpc":"2.0","id":0,"result":["0x8a9d86d0cd53029f0c72b2f327384100b1f72bbd2b985d01bafd5b5c0c4d6c0b","0x185bb34ccb2fa3c9cf41cb20429e92c96102573d3c8ed27d820dba10b5e2b962","0x000000006df37f675ef6eadf5ab9a2072d44268d97df837e6748956e5c6c2116"]}
+
+01:32:13:064	3498	ETH: Authorized
+01:32:13:064	3498	sent: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+01:32:13:064	3498	remove first packet 243
+01:32:13:103	3480	Setting DAG epoch #214...
+01:32:13:119	3498	buf: {"jsonrpc":"2.0","id":0,"result":["0x8a9d86d0cd53029f0c72b2f327384100b1f72bbd2b985d01bafd5b5c0c4d6c0b","0x185bb34ccb2fa3c9cf41cb20429e92c96102573d3c8ed27d820dba10b5e2b962","0x000000006df37f675ef6eadf5ab9a2072d44268d97df837e6748956e5c6c2116"]}
+
+01:32:14:007	1084	NVML: cannot get fan speed, error 3
+01:32:15:572	3480	Setting DAG epoch #214 for GPU0
+01:32:15:572	3480	Create GPU buffer for GPU0
+01:32:17:008	1084	NVML: cannot get fan speed, error 3
+01:32:18:695	3498	buf: {"jsonrpc":"2.0","id":0,"result":["0x8a9d86d0cd53029f0c72b2f327384100b1f72bbd2b985d01bafd5b5c0c4d6c0b","0x185bb34ccb2fa3c9cf41cb20429e92c96102573d3c8ed27d820dba10b5e2b962","0x000000006df37f675ef6eadf5ab9a2072d44268d97df837e6748956e5c6c2116"]}
+
+01:32:20:010	1084	NVML: cannot get fan speed, error 3
+01:32:23:011	1084	NVML: cannot get fan speed, error 3
+01:32:23:074	3498	ETH: checking pool connection...
+01:32:23:074	3498	sent: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+01:32:23:129	3498	buf: {"jsonrpc":"2.0","id":0,"result":["0x8a9d86d0cd53029f0c72b2f327384100b1f72bbd2b985d01bafd5b5c0c4d6c0b","0x185bb34ccb2fa3c9cf41cb20429e92c96102573d3c8ed27d820dba10b5e2b962","0x000000006df37f675ef6eadf5ab9a2072d44268d97df837e6748956e5c6c2116"]}
+
+01:32:26:013	1084	NVML: cannot get fan speed, error 3
+01:32:29:014	1084	NVML: cannot get fan speed, error 3
+01:32:30:255	3608	NVML: cannot get fan speed, error 3
+01:32:30:355	3608	Quit, please wait...
+01:32:31:770	3480	GPU0 DAG creation time - 16100 ms
+01:32:31:771	3480	Setting DAG epoch #214 for GPU0 done

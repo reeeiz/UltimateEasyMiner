@@ -1,0 +1,35 @@
+01:08:08:670	1568	
+01:08:08:671	1568	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+01:08:08:672	1568	บ              Claymore CryptoNote CPU Miner v4.0                บ
+01:08:08:673	1568	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+01:08:08:876	1568	XMR: 1 pool is specified
+01:08:08:876	1568	Main pool is xmr-eu.dwarfpool.com:8005
+01:08:08:878	1568	64-bit version
+01:08:08:878	1568	CPU supports AES-NI - faster mining!
+01:08:08:880	1568	Logical CPU cores: 8
+01:08:08:880	1568	Number of threads: Autoselection...
+01:08:08:881	1568	Using 4 threads
+01:08:08:891	1568	scfg: 0
+01:08:23:895	1568	No AMD cards in the list, ADL library will not be used.
+01:08:23:895	1568	1 pool specified.
+01:08:23:896	1568	Remote management (READ-ONLY MODE) is enabled on port 3333
+01:08:23:897	1568	Press "s" key for statistics.
+01:08:23:914	153c	Stratum - connecting to 'xmr-eu.dwarfpool.com' <178.32.145.31> port 8005 (unsecure)
+01:08:23:973	153c	send: {"method": "login", "params": {"login": "449TGay4WWJPwsXrWZfkMoPtDbJp8xoSzFuyjRt3iaM4bRHdzw4qoDu26FdcGx67BMDS1r2bnp7f5hF6xdPWWrD3Q3Wf7G6", "pass": "x", "agent": "xmr/1.0"}, "id": 1}
+
+01:08:23:973	153c	Stratum - Connected (unsecure)
+01:08:23:974	153c	New connection: reset total hashes counters
+01:08:24:027	153c	got 303 bytes
+01:08:24:027	153c	buf: {"id":1,"jsonrpc":"2.0","error":null,"result":{"id":"824099848303012","job":{"blob":"0707a3eebfdd05fd00d5266aeaa7866097dbca09781be5bdce686a9740e5d8fdcfa29602f1e1bc00000000a6eaa5be74677ddc03d16c97da917f9892a898c9217b2157ace98f0526a2f6bd01","job_id":"113811270473524","target":"dc460300"},"status":"OK"}}
+
+01:08:24:028	153c	parse packet: 303
+01:08:24:029	153c	new buf size: 0
+01:08:24:029	153c	Pool Diff 20000
+01:08:35:491	153c	got 253 bytes
+01:08:35:491	153c	buf: {"jsonrpc":"2.0","method":"job","params":{"blob":"0707e2efbfdd05fd51b7fa7e3530fb0a49f05a7cdeb1530642a0852d98fdfea70c55f956640ba20000000055352cbf560f99a238f0d232f42d1a99209a7173f872995da78a4603a2084c6006","job_id":"901019914052449","target":"dc460300"}}
+
+01:08:35:492	153c	parse packet: 253
+01:08:35:493	153c	new buf size: 0
+01:08:35:494	153c	09/30/18-01:08:35 - New job received from xmr-eu.dwarfpool.com:8005
+01:08:35:496	153c	Speed: 100 h/s, TotalHashes: 1K, Mining time:
+01:08:35:497	153c	00:00

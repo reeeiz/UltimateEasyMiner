@@ -1,0 +1,12 @@
+14:43:00:727	26f0	
+14:43:00:728	26f0	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+14:43:00:729	26f0	บ              Claymore CryptoNote CPU Miner v4.0                บ
+14:43:00:730	26f0	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+14:43:00:933	26f0	XMR: 1 pool is specified
+14:43:00:934	26f0	Main pool is xmr.pool.minergate.com:45700
+14:43:00:935	26f0	64-bit version
+14:43:00:936	26f0	CPU supports AES-NI - faster mining!
+14:43:00:936	26f0	Logical CPU cores: 8
+14:43:00:937	26f0	Number of threads: Autoselection...
+14:43:00:938	26f0	Using 4 threads
+14:43:00:942	26f0	scfg: 0

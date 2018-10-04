@@ -1,0 +1,13 @@
+19:32:01:827	2f54	Check and remove old log files...
+19:32:01:828	2f54	args: -epool eu1.ethermine.org:4444 - ewal 0xD69af2A796A737A103F12d2f0BCC563a13900E6F - epsw x 
+19:32:01:829	2f54	
+19:32:01:829	2f54	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+19:32:01:829	2f54	บ                Claymore's Dual GPU Miner - v11.9               บ
+19:32:01:830	2f54	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+19:32:01:830	2f54	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+19:32:01:830	2f54	
+19:32:01:830	2f54	b597 
+19:32:02:031	2f54	ETH: cannot find any specified wallet address!
+19:32:02:039	2f54	ETH: cannot find any specified wallet address!
+19:32:02:040	2f54	Pool eu1.ethermine.org removed from the list
+19:32:02:040	2f54	ETH: No pools specified! Specify at least one valid pool in "-epool" parameter. 

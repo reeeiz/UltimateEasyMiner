@@ -1,0 +1,74 @@
+15:12:22:795	2fec	Check and remove old log files...
+15:12:22:798	2fec	args: -epool eth-eu1.nanopool.org:9999 -ewal 0x829f644bb9402a6c959a9ca0c673005dbf668704 -epsw x 
+15:12:22:798	2fec	
+15:12:22:798	2fec	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+15:12:22:799	2fec	บ                Claymore's Dual GPU Miner - v11.9               บ
+15:12:22:799	2fec	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+15:12:22:799	2fec	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+15:12:22:800	2fec	
+15:12:22:800	2fec	b597 
+15:12:23:002	2fec	ETH: 1 pool is specified
+15:12:23:003	2fec	Main Ethereum pool is eth-eu1.nanopool.org:9999
+15:12:23:003	2fec	DCR: 0 pool is specified
+15:12:23:150	2fec	OpenCL platform: Intel(R) OpenCL
+15:12:23:150	2fec	OpenCL platform: NVIDIA CUDA
+15:12:23:150	2fec	AMD OpenCL platform not found 
+15:12:23:492	2fec	CUDA initializing...
+
+15:12:23:492	2fec	NVIDIA Cards available: 1 
+15:12:23:493	2fec	CUDA Driver Version/Runtime Version: 9.1/8.0
+15:12:23:495	2fec	GPU #0: GeForce GTX 1050 Ti, 4096 MB available, 6 compute units, capability: 6.1  (pci bus 1:0:0)
+15:12:23:495	2fec	Total cards: 1 
+15:12:27:514	2fec	NVML version: 9.390.77
+15:12:27:524	2fec	NVML: cannot get fan speed, error 3
+15:12:28:229	2fec	SSL: Imported 270 certificates from local storage
+15:12:28:315	25f8	ETH: Stratum - connecting to 'eth-eu1.nanopool.org' <51.15.39.52> port 9999 (unsecure)
+15:12:28:329	2fec	No pool specified for Decred! Ethereum-only mining mode is enabled
+15:12:28:329	2fec	ETHEREUM-ONLY MINING MODE ENABLED (-mode 1)
+15:12:28:329	2fec	ETH: eth-proxy stratum mode
+15:12:28:330	2fec	Watchdog enabled
+15:12:28:330	2fec	Remote management (READ-ONLY MODE) is enabled on port 3333
+15:12:28:330	2fec	
+15:12:28:396	25f8	sent: {"worker": "eth1.0", "jsonrpc": "2.0", "params": ["0x829f644bb9402a6c959a9ca0c673005dbf668704", "x"], "id": 2, "method": "eth_submitLogin"}
+
+15:12:28:397	25f8	ETH: Stratum - Connected (eth-eu1.nanopool.org:9999) (unsecure)
+15:12:28:491	25f8	buf: {"jsonrpc":"2.0","id":2,"result":true}
+{"jsonrpc":"2.0","id":0,"result":["0x55f2a192c8d542b7aa798c195614e275ae9abe908c62e835ad5bc9c673293368","0x95110ca8048b60699de72f2c00e65f06a5d8a088a64c146e5a8eb2827e1b1234","0x000000006df37f675ef6eadf5ab9a2072d44268d97df837e6748956e5c6c2116"]}
+
+15:12:28:491	25f8	ETH: Authorized
+15:12:28:491	25f8	sent: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+15:12:28:492	25f8	remove first packet 243
+15:12:28:558	221c	Setting DAG epoch #211...
+15:12:28:562	25f8	buf: {"jsonrpc":"2.0","id":0,"result":["0x55f2a192c8d542b7aa798c195614e275ae9abe908c62e835ad5bc9c673293368","0x95110ca8048b60699de72f2c00e65f06a5d8a088a64c146e5a8eb2827e1b1234","0x000000006df37f675ef6eadf5ab9a2072d44268d97df837e6748956e5c6c2116"]}
+
+15:12:29:007	1680	NVML: cannot get fan speed, error 3
+15:12:31:313	221c	Setting DAG epoch #211 for GPU0
+15:12:31:314	221c	Create GPU buffer for GPU0
+15:12:32:008	1680	NVML: cannot get fan speed, error 3
+15:12:35:009	1680	NVML: cannot get fan speed, error 3
+15:12:38:009	1680	NVML: cannot get fan speed, error 3
+15:12:38:497	25f8	ETH: checking pool connection...
+15:12:38:497	25f8	sent: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+15:12:38:719	25f8	buf: {"jsonrpc":"2.0","id":0,"result":["0x55f2a192c8d542b7aa798c195614e275ae9abe908c62e835ad5bc9c673293368","0x95110ca8048b60699de72f2c00e65f06a5d8a088a64c146e5a8eb2827e1b1234","0x000000006df37f675ef6eadf5ab9a2072d44268d97df837e6748956e5c6c2116"]}
+
+15:12:41:010	1680	NVML: cannot get fan speed, error 3
+15:12:44:010	1680	NVML: cannot get fan speed, error 3
+15:12:47:011	1680	NVML: cannot get fan speed, error 3
+15:12:48:514	25f8	ETH: checking pool connection...
+15:12:48:514	25f8	sent: {"worker": "", "jsonrpc": "2.0", "params": [], "id": 3, "method": "eth_getWork"}
+
+15:12:48:596	25f8	buf: {"jsonrpc":"2.0","id":0,"result":["0x55f2a192c8d542b7aa798c195614e275ae9abe908c62e835ad5bc9c673293368","0x95110ca8048b60699de72f2c00e65f06a5d8a088a64c146e5a8eb2827e1b1234","0x000000006df37f675ef6eadf5ab9a2072d44268d97df837e6748956e5c6c2116"]}
+
+15:12:50:012	1680	NVML: cannot get fan speed, error 3
+15:12:53:013	1680	NVML: cannot get fan speed, error 3
+15:12:53:013	1680	NVML: cannot get fan speed, error 3
+15:12:53:014	1680	GPU0 t=60C fan=0%
+15:12:53:155	2918	em hbt: 0, fm hbt: 109, 
+15:12:53:155	2918	watchdog - thread 0 (gpu0), hb time 24609
+15:12:53:155	2918	watchdog - thread 1 (gpu0), hb time 24609
+15:12:54:635	2430	NVML: cannot get fan speed, error 3
+15:12:54:736	2430	Quit, please wait...
+15:12:54:796	221c	GPU0 DAG creation time - 23383 ms
+15:12:54:797	221c	Setting DAG epoch #211 for GPU0 done

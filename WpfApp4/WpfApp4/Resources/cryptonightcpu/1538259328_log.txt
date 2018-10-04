@@ -1,0 +1,12 @@
+01:15:28:714	2edc	
+01:15:28:715	2edc	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+01:15:28:716	2edc	บ              Claymore CryptoNote CPU Miner v4.0                บ
+01:15:28:717	2edc	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+01:15:28:919	2edc	XMR: 1 pool is specified
+01:15:28:920	2edc	Main pool is vegas-backup.xmrpool.net:80
+01:15:28:921	2edc	64-bit version
+01:15:28:922	2edc	CPU supports AES-NI - faster mining!
+01:15:28:923	2edc	Logical CPU cores: 8
+01:15:28:924	2edc	Number of threads: Autoselection...
+01:15:28:924	2edc	Using 4 threads
+01:15:28:927	2edc	scfg: 0

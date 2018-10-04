@@ -1,0 +1,1 @@
+cpuminer.exe -a cryptolight -o arqma:herominers.com:10321 -u CNQqYmZUZu9W9kGsBJc2QcgVaDDHaYYqwK -p x -q

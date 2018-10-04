@@ -1,0 +1,10 @@
+12:33:23:129	213c	Check and remove old log files...
+12:33:23:130	213c	args: -epool eth-eu1.nanopool.org -ewal 0x829F644bB9402A6c959a9Ca0c673005DbF668704 -epsw x 
+12:33:23:130	213c	
+12:33:23:131	213c	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+12:33:23:131	213c	บ                Claymore's Dual GPU Miner - v11.9               บ
+12:33:23:131	213c	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+12:33:23:131	213c	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+12:33:23:131	213c	
+12:33:23:132	213c	b597 
+12:33:23:335	213c	ETH: No pools specified! Specify at least one valid pool in "-epool" parameter. 

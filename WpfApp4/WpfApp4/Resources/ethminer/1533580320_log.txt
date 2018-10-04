@@ -1,0 +1,22 @@
+21:32:00:900	2870	Check and remove old log files...
+21:32:00:901	2870	args: -epool eu1.ethermine.org:4444 -ewal 0xD69af2A796A737A103F12d2f0BCC563a13900E6F -epsw x 
+21:32:00:901	2870	
+21:32:00:902	2870	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+21:32:00:902	2870	บ                Claymore's Dual GPU Miner - v11.9               บ
+21:32:00:903	2870	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+21:32:00:903	2870	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+21:32:00:903	2870	
+21:32:00:904	2870	b597 
+21:32:01:105	2870	You specified default wallet address, it is good for tests only, for normal mining you must change it to your wallet address!
+21:32:01:113	2870	ETH: 1 pool is specified
+21:32:01:113	2870	Main Ethereum pool is eu1.ethermine.org:4444
+21:32:01:114	2870	DCR: 0 pool is specified
+21:32:01:172	2870	OpenCL platform: Intel(R) OpenCL
+21:32:01:172	2870	OpenCL platform: NVIDIA CUDA
+21:32:01:172	2870	AMD OpenCL platform not found 
+21:32:01:397	2870	CUDA initializing...
+
+21:32:01:397	2870	NVIDIA Cards available: 1 
+21:32:01:398	2870	CUDA Driver Version/Runtime Version: 9.1/8.0
+21:32:01:400	2870	GPU #0: GeForce GTX 1050 Ti, 4096 MB available, 6 compute units, capability: 6.1  (pci bus 1:0:0)
+21:32:01:400	2870	Total cards: 1 

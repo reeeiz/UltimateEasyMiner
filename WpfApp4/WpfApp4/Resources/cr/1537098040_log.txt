@@ -1,0 +1,27 @@
+14:40:40:794	2914	
+14:40:40:795	2914	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+14:40:40:796	2914	บ              Claymore CryptoNote CPU Miner v4.0                บ
+14:40:40:797	2914	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+14:40:41:000	2914	XMR: 1 pool is specified
+14:40:41:001	2914	Main pool is xmr-eu.dwarfpool.com:8005
+14:40:41:002	2914	64-bit version
+14:40:41:003	2914	CPU supports AES-NI - faster mining!
+14:40:41:003	2914	Logical CPU cores: 8
+14:40:41:004	2914	Number of threads: Autoselection...
+14:40:41:005	2914	Using 4 threads
+14:40:41:007	2914	scfg: 0
+14:40:56:011	2914	No AMD cards in the list, ADL library will not be used.
+14:40:56:012	2914	1 pool specified.
+14:40:56:012	2914	Remote management (READ-ONLY MODE) is enabled on port 3333
+14:40:56:013	2914	Press "s" key for statistics.
+14:40:56:033	2830	Stratum - connecting to 'xmr-eu.dwarfpool.com' <79.137.57.106> port 8005 (unsecure)
+14:40:56:079	2830	send: {"method": "login", "params": {"login": "449TGay4WWJPwsXrWZfkMoPtDbJp8xoSzFuyjRt3iaM4bRHdzw4qoDu26FdcGx67BMDS1r2bnp7f5hF6xdPWWrD3Q3Wf7G6", "pass": "x", "agent": "xmr/1.0"}, "id": 1}
+
+14:40:56:080	2830	Stratum - Connected (unsecure)
+14:40:56:081	2830	New connection: reset total hashes counters
+14:40:56:124	2830	got 303 bytes
+14:40:56:124	2830	buf: {"id":1,"jsonrpc":"2.0","error":null,"result":{"id":"387411186029203","job":{"blob":"07078680f9dc05ebf91a5df6afeae70aba8f68d5ce211d0a103268f55782493334635d1b8f5d4c00000000a968fb7d62cfc89b0bcecb1b93e5b858649bae9a646b6b440fc20f95299c37c70a","job_id":"286255064979195","target":"dc460300"},"status":"OK"}}
+
+14:40:56:125	2830	parse packet: 303
+14:40:56:126	2830	new buf size: 0
+14:40:56:126	2830	Pool Diff 20000

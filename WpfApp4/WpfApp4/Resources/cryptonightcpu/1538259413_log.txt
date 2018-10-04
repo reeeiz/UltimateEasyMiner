@@ -1,0 +1,13 @@
+01:16:53:875	2960	
+01:16:53:876	2960	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+01:16:53:877	2960	บ              Claymore CryptoNote CPU Miner v4.0                บ
+01:16:53:878	2960	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+01:16:54:081	2960	XMR: 1 pool is specified
+01:16:54:082	2960	Main pool is vegas-backup.xmrpool.net:80
+01:16:54:083	2960	64-bit version
+01:16:54:084	2960	CPU supports AES-NI - faster mining!
+01:16:54:085	2960	Logical CPU cores: 8
+01:16:54:086	2960	Number of threads: Autoselection...
+01:16:54:087	2960	Using 4 threads
+01:16:54:089	2960	scfg: 0
+01:16:59:773	1878	ADL: Cannot find any AMD adapters

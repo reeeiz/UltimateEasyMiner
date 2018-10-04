@@ -1,0 +1,36 @@
+18:56:35:974	2098	Check and remove old log files...
+18:56:35:975	2098	args: -epool eu1.ethermine.org:4444 -ewal 0xD69af2A796A737A103F12d2f0BCC563a13900E6F -epsw x 
+18:56:35:976	2098	
+18:56:35:976	2098	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+18:56:35:977	2098	บ                Claymore's Dual GPU Miner - v11.9               บ
+18:56:35:977	2098	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+18:56:35:978	2098	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+18:56:35:978	2098	
+18:56:35:979	2098	b597 
+18:56:36:180	2098	You specified default wallet address, it is good for tests only, for normal mining you must change it to your wallet address!
+18:56:36:188	2098	ETH: 1 pool is specified
+18:56:36:188	2098	Main Ethereum pool is eu1.ethermine.org:4444
+18:56:36:189	2098	DCR: 0 pool is specified
+18:56:36:239	2098	OpenCL platform: Intel(R) OpenCL
+18:56:36:240	2098	OpenCL platform: NVIDIA CUDA
+18:56:36:240	2098	AMD OpenCL platform not found 
+18:56:36:457	2098	CUDA initializing...
+
+18:56:36:457	2098	NVIDIA Cards available: 1 
+18:56:36:458	2098	CUDA Driver Version/Runtime Version: 9.1/8.0
+18:56:36:460	2098	GPU #0: GeForce GTX 1050 Ti, 4096 MB available, 6 compute units, capability: 6.1  (pci bus 1:0:0)
+18:56:36:461	2098	Total cards: 1 
+18:56:40:471	2098	NVML version: 9.390.77
+18:56:40:479	2098	NVML: cannot get fan speed, error 3
+18:56:41:132	2098	SSL: Imported 270 certificates from local storage
+18:56:41:141	1e50	ETH: Stratum - connecting to 'eu1.ethermine.org' <35.198.179.39> port 4444 (unsecure)
+18:56:41:234	2098	No pool specified for Decred! Ethereum-only mining mode is enabled
+18:56:41:234	2098	ETHEREUM-ONLY MINING MODE ENABLED (-mode 1)
+18:56:41:235	2098	ETH: eth-proxy stratum mode
+18:56:41:235	2098	Watchdog enabled
+18:56:41:236	2098	Remote management (READ-ONLY MODE) is enabled on port 3333
+18:56:41:236	2098	
+18:56:42:193	26bc	NVML: cannot get fan speed, error 3
+18:56:45:194	26bc	NVML: cannot get fan speed, error 3
+18:56:48:195	26bc	NVML: cannot get fan speed, error 3
+18:56:49:869	17b8	NVML: cannot get fan speed, error 3

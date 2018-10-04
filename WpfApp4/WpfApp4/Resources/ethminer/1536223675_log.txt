@@ -1,0 +1,26 @@
+11:47:55:223	2ffc	Check and remove old log files...
+11:47:55:224	2ffc	args: -epool eu1.ethermine.org:4444 -ewal 0xD69af2A796A737A103F12d2f0BCC563a13900E6F -epsw x 
+11:47:55:225	2ffc	
+11:47:55:225	2ffc	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+11:47:55:226	2ffc	บ                Claymore's Dual GPU Miner - v11.9               บ
+11:47:55:226	2ffc	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+11:47:55:227	2ffc	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+11:47:55:227	2ffc	
+11:47:55:227	2ffc	b597 
+11:47:55:428	2ffc	You specified default wallet address, it is good for tests only, for normal mining you must change it to your wallet address!
+11:47:55:429	2ffc	ETH: 1 pool is specified
+11:47:55:429	2ffc	Main Ethereum pool is eu1.ethermine.org:4444
+11:47:55:429	2ffc	DCR: 0 pool is specified
+11:47:55:557	2ffc	OpenCL platform: Intel(R) OpenCL
+11:47:55:557	2ffc	OpenCL platform: NVIDIA CUDA
+11:47:55:557	2ffc	AMD OpenCL platform not found 
+11:47:55:884	2ffc	CUDA initializing...
+
+11:47:55:885	2ffc	NVIDIA Cards available: 1 
+11:47:55:885	2ffc	CUDA Driver Version/Runtime Version: 9.1/8.0
+11:47:55:887	2ffc	GPU #0: GeForce GTX 1050 Ti, 4096 MB available, 6 compute units, capability: 6.1  (pci bus 1:0:0)
+11:47:55:888	2ffc	Total cards: 1 
+11:47:59:911	2ffc	NVML version: 9.390.77
+11:47:59:920	2ffc	NVML: cannot get fan speed, error 3
+11:48:00:509	82c	NVML: cannot get fan speed, error 3
+11:48:00:669	2ffc	SSL: Imported 270 certificates from local storage

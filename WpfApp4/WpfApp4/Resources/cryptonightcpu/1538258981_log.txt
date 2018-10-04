@@ -1,0 +1,19 @@
+01:09:41:068	b90	
+01:09:41:070	b90	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+01:09:41:070	b90	บ              Claymore CryptoNote CPU Miner v4.0                บ
+01:09:41:072	b90	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+01:09:41:274	b90	XMR: 1 pool is specified
+01:09:41:275	b90	Main pool is mine.moneropool.org:80
+01:09:41:276	b90	64-bit version
+01:09:41:277	b90	CPU supports AES-NI - faster mining!
+01:09:41:277	b90	Logical CPU cores: 8
+01:09:41:278	b90	Number of threads: Autoselection...
+01:09:41:279	b90	Using 4 threads
+01:09:41:281	b90	scfg: 0
+01:09:56:284	b90	No AMD cards in the list, ADL library will not be used.
+01:09:56:285	b90	1 pool specified.
+01:09:56:286	b90	Remote management (READ-ONLY MODE) is enabled on port 3333
+01:09:56:287	b90	Press "s" key for statistics.
+01:10:00:060	30bc	Cannot resolve 'mine.moneropool.org'
+01:10:00:062	30bc	Stratum - Cannot connect  to mine.moneropool.org port 80
+01:10:00:063	30bc	 Stratum - Failed to connect, retry in 20 sec...
